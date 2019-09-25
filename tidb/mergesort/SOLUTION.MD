@@ -1,8 +1,8 @@
-I just implement normal merge sort with some optimization 
+I just implement normal merge sort with some optimizations
 
 First, we have 3 big function: insertSort, mergeSort, parallelMergeSort - main function
 
-1. When size of input small  (< 16)  using insertSort()
+1. When size of input small  (< 32)  using insertSort()
 
 2. Trying to run parallel by:
 
