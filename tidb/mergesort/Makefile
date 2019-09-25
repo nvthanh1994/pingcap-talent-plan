@@ -6,5 +6,6 @@ test:
 	go test
 
 bench:
-	go test -bench Benchmark -run xx -count 5 -benchmem
+	go test -bench Benchmark -run xx -count 3 -benchmem
+
 

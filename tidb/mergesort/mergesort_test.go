@@ -1,12 +1,11 @@
 package main
 
 import (
+	"github.com/pingcap/check"
 	"math/rand"
 	"sort"
 	"testing"
 	"time"
-
-	"github.com/pingcap/check"
 )
 
 var _ = check.Suite(&sortTestSuite{})
