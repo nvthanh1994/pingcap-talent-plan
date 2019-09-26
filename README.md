@@ -1,3 +1,5 @@
+# MY SOLUTION for PingCAP Talent Plan Training Course labs
+
 # PingCAP Talent Plan
 
 This is a series of training courses about writing distributed systems in Go and
